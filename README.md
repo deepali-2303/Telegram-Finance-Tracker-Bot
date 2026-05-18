@@ -1,2 +1,2 @@
 # WhatsApp-Finance-Tracker-Bot
-Tracks finances and generates regular reports using whatsapp bot
+Tracks finances and generates regular reports using telegram bot
